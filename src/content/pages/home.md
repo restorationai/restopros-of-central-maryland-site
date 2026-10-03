@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "RestoPros of Central Maryland | Restoration Services in Baldwin, MD"
-h1: "24/7 Restoration Services in Baldwin"
-meta_description: "RestoPros of Central Maryland provides 24/7 water, fire, mold, and storm damage restoration across Baldwin and surrounding areas. Licensed, insured, IICRC-certified. Call (240) 261-1639."
-primary_keyword: "restoration services baldwin"
-secondary_keywords: ["restoration company near me", "24/7 damage restoration", "emergency restoration"]
+title: "Water Damage Restoration in Baldwin, MD | RestoPros of Central Maryland"
+h1: "24/7 Water Damage Restoration in Baldwin, MD"
+meta_description: "RestoPros of Central Maryland provides water damage restoration in Baldwin, MD, answering 24/7. IICRC certified. Call (240) 261-1639 now."
+primary_keyword: "water damage restoration baldwin"
+secondary_keywords: ["best restoration company in baldwin", "restoration company baldwin", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "1bbd3d10e06ed9b4"
