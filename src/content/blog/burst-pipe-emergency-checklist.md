@@ -16,6 +16,7 @@ faq: [{"question": "How long does it take for mold to start growing after a pipe
 published_at: "2026-09-17"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "Daniel Restum"
 ---
 A burst pipe doesn't wait for a convenient time. The first move is always the same: find the main water shutoff valve and turn it off before you do anything else. That stops the flooding at the source. After that, the priority shifts to protecting the structure, your belongings, and anyone in the house, and documenting what happened before you start moving things around. Here's the order of operations, step by step, so you're not guessing while water is spreading across your floor.
 

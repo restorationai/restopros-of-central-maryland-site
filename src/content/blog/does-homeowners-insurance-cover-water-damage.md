@@ -16,6 +16,7 @@ faq: [{"question": "Will my insurance rates go up if I file a water damage claim
 published_at: "2026-09-15"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Daniel Restum"
 ---
 Most homeowners insurance policies cover water damage when it's sudden and accidental, like a burst pipe, a failed water heater, or a washing machine supply line that lets go overnight. They generally do not cover damage from neglect, gradual leaks you should have caught, or flooding from outside the home, that last one needs a separate flood policy through the National Flood Insurance Program or a private flood carrier. The difference between "covered" and "denied" often comes down to how fast the water appeared and whether you can show you didn't ignore a known problem.
 

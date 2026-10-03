@@ -16,6 +16,7 @@ faq: [{"question": "How long does it take for mold to start growing after water 
 published_at: "2026-09-29"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Daniel Restum"
 ---
 If you're standing in water right now, here's the order of operations: shut off the water source, cut power to the affected area if it's safe to reach the breaker, move anything you can lift off the floor, and start documenting with your phone before you touch anything else. Everything else, calling your insurer, deciding whether to rent fans or call a restoration crew, can wait until those four things are done. Water damage gets worse by the hour, not the day, so the choices you make in the first 24 hours matter more than almost anything that happens afterward.
 

@@ -16,6 +16,7 @@ faq: [{"question": "How long does fire damage restoration usually take?", "answe
 published_at: "2026-09-26"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Daniel Restum"
 ---
 Fire damage restoration follows a sequence: emergency mitigation to stop ongoing damage, a full assessment of what's salvageable, water removal if sprinklers or hoses were used, soot and smoke residue cleanup, deep cleaning of surfaces and belongings, odor treatment, and finally any reconstruction the fire or the firefighting effort made necessary. The order matters. Skipping ahead to cleaning before the structure is dry, or painting over soot before it's removed, tends to lock problems in rather than solve them. Most of this work needs a trained crew, but the first few hours after the fire department clears the scene are mostly about what the homeowner does and doesn't do before that crew arrives.
 

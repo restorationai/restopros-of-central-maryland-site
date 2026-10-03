@@ -16,6 +16,7 @@ faq: [{"question": "How do I know if a restoration estimate is reasonable?", "an
 published_at: "2026-09-24"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Daniel Restum"
 ---
 If you're searching this after a storm, a leak, or a fire, here's the short version: verify the company carries general liability and workers' comp insurance, ask what certifications their technicians actually hold (not just what's on the truck wrap), get a written scope of work before any demolition starts, and never sign a blanket insurance authorization that hands over your full claim without a dollar cap or scope attached. Restoration work moves fast and homeowners are often making decisions while exhausted, displaced, or dealing with an adjuster for the first time. That combination is exactly what less scrupulous outfits count on.
 

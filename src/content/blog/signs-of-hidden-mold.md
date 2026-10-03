@@ -16,6 +16,7 @@ faq: [{"question": "How fast does mold actually grow after a leak?", "answer": "
 published_at: "2026-09-19"
 services: ["mold-remediation"]
 rendered: true
+author: "Daniel Restum"
 ---
 If you're smelling something musty in a room that looks perfectly clean, or you've noticed a water stain that keeps coming back no matter how many times you paint over it, there's a good chance mold is growing somewhere you can't see. The seven signs below are the most common tip-offs: a persistent musty odor, discoloration on walls or ceilings, peeling or bubbling paint, warped or soft flooring, condensation on windows or pipes, a spike in allergy symptoms at home, and a past leak or flood that was dried quickly but not thoroughly. If two or more of these sound familiar, the next step is to find the source before it spreads further, not just cover the symptom.
 

@@ -16,6 +16,7 @@ faq: [{"question": "Can a mold test tell me if my symptoms (coughing, headaches,
 published_at: "2026-09-19"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Daniel Restum"
 ---
 If you can see mold growing on a surface, in most cases you don't need to test it first; you need to clean it up or have it removed. Testing earns its keep when you smell something musty but can't find a source, when mold shows up after a water event and you need to know how far it's spread, or when you're buying or selling a house and need documentation. DIY kits are a reasonable first step for confirming spores are present in the air. A professional inspection goes further: it identifies species, maps the extent of contamination behind walls or under flooring, and gives you a moisture reading that explains why the mold is there in the first place. Which one you need depends less on budget and more on what question you're actually trying to answer.
 

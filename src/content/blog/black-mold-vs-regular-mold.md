@@ -16,6 +16,7 @@ faq: [{"question": "Can I tell if mold is toxic just by looking at it?", "answer
 published_at: "2026-09-19"
 services: ["mold-remediation"]
 rendered: true
+author: "Daniel Restum"
 ---
 ## Why Color Alone Doesn't Tell You What You're Dealing With
 
