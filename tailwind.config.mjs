@@ -52,13 +52,13 @@ export default {
            2026-08-05: "Action to call on the website need to match golds as
            the logo" — the fill is the logo gold now, the label moved instead. */
         cta: {
-          DEFAULT: "#339df1",
-          hover: "#128def",
+          DEFAULT: "#108cef",
+          hover: "#329cf1",
           fg: "#161718",
         },
         accent: {
           // Same pair rule as cta — btn-accent renders text-accent-fg on this.
-          DEFAULT: "#339df1",
+          DEFAULT: "#108cef",
           fg: "#161718",
         },
         muted: {
