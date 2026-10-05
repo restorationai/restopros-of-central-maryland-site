@@ -22,9 +22,9 @@ const sectionHeading =
 const hqCity = brand.addressCity || brand.primaryCity;
 const hqState = brand.addressState || brand.primaryState;
 const remote = hqCity && city && hqCity.toLowerCase() !== city.toLowerCase();
-const servingLine = remote
-  ? `Serving ${city} from our ${hqCity}, ${hqState} office`
-  : `Serving ${city} and surrounding neighborhoods`;
+// RestoPros 2026-10-04 (Daniel): the address on file is the owner's home in
+// Baldwin, not where the crews work from, so no "from our Baldwin office" line.
+const servingLine = `Serving ${city} and surrounding neighborhoods`;
 
 // Free Google Maps embed of the client's REAL Business Profile — no API key needed,
 // so it always renders (the old Embed-API path showed nothing without a key). Name-

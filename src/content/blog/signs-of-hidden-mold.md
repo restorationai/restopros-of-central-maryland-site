@@ -30,7 +30,7 @@ If you're smelling something musty in a room that looks perfectly clean, or you'
 
 **Warped, soft, or spongy flooring.** Hardwood that cups, laminate that bubbles at the seams, or carpet that stays damp longer than it should all point to moisture sitting underneath, which is exactly where mold prefers to grow, out of sight.
 
-**Condensation that keeps forming on windows, pipes, or exterior walls.** Baldwin's humid Mid-Atlantic summers push a lot of moisture into homes, and older houses in this part of Central Maryland often have less wall insulation and ventilation than current code calls for. Chronic condensation is a slow, steady water source that mold doesn't need much time to use.
+**Condensation that keeps forming on windows, pipes, or exterior walls.** Central Maryland's humid Mid-Atlantic summers push a lot of moisture into homes, and older houses in this part of Central Maryland often have less wall insulation and ventilation than current code calls for. Chronic condensation is a slow, steady water source that mold doesn't need much time to use.
 
 **Allergy or respiratory symptoms that ease when you leave the house.** Sneezing, congestion, itchy eyes, or a cough that improves at work or on vacation and returns at home can be your body reacting to airborne mold spores, particularly in homes with forced-air HVAC systems that circulate them room to room.
 

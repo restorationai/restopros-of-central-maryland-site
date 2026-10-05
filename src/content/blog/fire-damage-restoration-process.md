@@ -54,7 +54,7 @@ A fire contained to a single pan on the stove with no structural scorching might
 - The smell persists after the area has been ventilated and surface-cleaned
 - You're filing an insurance claim and need documented, itemized damage assessment
 
-RestoPros of Central Maryland handles fire damage restoration and smoke damage restoration for homes throughout the Baldwin area, and can walk through the property to separate what's salvageable from what isn't before anything gets thrown out or painted over. Call (240) 261-1639 if you want that assessment done before you start cleanup on your own.
+RestoPros of Central Maryland handles fire damage restoration and smoke damage restoration for homes throughout Rockville, Silver Spring, Bethesda and the surrounding Central Maryland communities, and can walk through the property to separate what's salvageable from what isn't before anything gets thrown out or painted over. Call (240) 261-1639 if you want that assessment done before you start cleanup on your own.
 
 ## The Longer Recovery Process
 

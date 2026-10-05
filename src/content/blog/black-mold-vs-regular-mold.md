@@ -30,7 +30,7 @@ What separates mold species isn't danger level in some simple ranked way, it's t
 - **Cladosporium and Alternaria** are far more common and show up on cooler, less saturated surfaces, think bathroom grout, window sills with condensation, or AC vents.
 - **Aspergillus and Penicillium** often appear as fuzzy white, green, or blue-green colonies on anything from food to paper to insulation, and they're frequently what's growing in a basement or crawl space that stays consistently damp rather than recently flooded.
 
-In a Baldwin basement or crawl space, where Central Maryland's humid summers and clay-heavy soil keep things damp for weeks at a time, you're statistically more likely to be looking at one of the common household molds than Stachybotrys specifically. That doesn't mean ignore it. Any mold growing indoors means there's a moisture problem that needs to be solved, regardless of which species is on the wall.
+In a Central Maryland basement or crawl space, where Central Maryland's humid summers and clay-heavy soil keep things damp for weeks at a time, you're statistically more likely to be looking at one of the common household molds than Stachybotrys specifically. That doesn't mean ignore it. Any mold growing indoors means there's a moisture problem that needs to be solved, regardless of which species is on the wall.
 
 ## Immediate Steps If You Find Mold
 

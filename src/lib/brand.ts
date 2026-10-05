@@ -34,7 +34,7 @@ export const brand = {
   email: "drestum@restopros.co",
   hours: "24/7",
   foundedYear: "",
-  primaryCity: "Baldwin",
+  primaryCity: "Rockville",
   primaryState: "MD",
   // primaryCity/primaryState = the #1 MARKETING city (headlines, coverage
   // copy). addressCity/addressState = where the business PHYSICALLY is.
@@ -78,7 +78,7 @@ export const brand = {
     { author: "Smart", rating: 5, text: "Best Water Damage services provider in the area. Highly professional and skillful. Dan you are the gem", when: "September 2026" },
     { author: "Oscar", rating: 5, text: "Dan helped me through the process and explained me in detail about all my questions. I highly recommend Restopros.", when: "September 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
-  tagline: "24/7 restoration services in Baldwin, MD.",
+  tagline: "24/7 restoration services in Rockville, Silver Spring, Bethesda and across Central Maryland.",
   // optional custom insurance positioning line (Hero renders only when set)
   insuranceTrustLine: "",
   ctaLabel: "24/7 Emergency Line",
@@ -91,7 +91,7 @@ export const brand = {
   tradeNoun: "restoration",
   specialistPhrase: "Damage Restoration Specialists",
   announcementSuffix: "24/7 Emergency Response",
-  homeAboutBlurb: "RestoPros of Central Maryland serves Baldwin and the surrounding MD area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
+  homeAboutBlurb: "RestoPros of Central Maryland serves Rockville, Silver Spring, Bethesda, Gaithersburg, Columbia and the surrounding Montgomery, Prince George's, Howard and Anne Arundel County communities with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery, and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
 } as const;
 
 export const entityId = `${brand.canonicalUrl}/#identity`;

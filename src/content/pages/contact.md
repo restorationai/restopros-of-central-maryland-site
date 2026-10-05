@@ -1,30 +1,30 @@
 ---
 archetype: "contact"
-title: "Contact RestoPros of Central Maryland | 24/7 Restoration in Baldwin"
+title: "Contact RestoPros of Central Maryland | 24/7 Restoration in Rockville"
 h1: "Contact RestoPros of Central Maryland"
-meta_description: "Call (240) 261-1639 for 24/7 emergency restoration in Baldwin and surrounding areas. Free estimates. Direct insurance billing."
+meta_description: "Call (240) 261-1639 for 24/7 emergency restoration in Rockville and surrounding areas. Free estimates. Direct insurance billing."
 primary_keyword: "restopros of central maryland contact"
 secondary_keywords: ["restoration company contact", "24/7 restoration phone", "emergency restoration near me"]
 search_intent: "navigational_action"
 priority: 2.5
 plan_hash: "963751d9fa465c40"
-generated_at: "2026-10-02T01:02:10.141909+00:00"
+generated_at: "2026-10-05T09:20:36.531661+00:00"
 manual_override: false
 internal_links: ["/", "/services/", "/service-areas/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Contact"}]
-faq: [{"question": "How fast can you get to my property?", "answer": "We answer calls 24/7 and move quickly once we know the situation, especially with active water intrusion or fire damage. Call (240) 261-1639 and describe what's happening so we can prioritize accordingly."}, {"question": "Are you really available after hours and on weekends?", "answer": "Yes. Our phone line is staffed around the clock, including nights, weekends, and holidays, because water and fire damage don't wait for business hours."}, {"question": "Do you work on commercial buildings or just homes?", "answer": "We handle both residential properties and commercial buildings, from single-family homes to offices and multi-unit properties. The call process is the same either way: tell us what you're seeing and we'll walk you through next steps."}, {"question": "Will you work directly with my insurance company?", "answer": "We document the damage thoroughly with photos and notes and can coordinate directly with your adjuster to support your claim. Have your policy and claim number ready when you reach out so we can move faster."}, {"question": "What should I do before you arrive?", "answer": "If it's safe, shut off the water source or power to the affected area and avoid walking through standing water near electrical outlets. Don't try to move heavy wet furniture alone, and don't run fans or HVAC through smoke-damaged rooms until we've assessed the situation."}, {"question": "Can I just send photos and get a rough estimate first?", "answer": "For non-urgent situations, yes, email us at drestum@restopros.co with photos and a brief description and we'll follow up. For active emergencies, call instead so we can get someone on-site to assess in person."}]
+faq: [{"question": "How fast can someone get to my property?", "answer": "We prioritize active water, fire, and biohazard emergencies and dispatch as soon as a crew is available. Call the number on this page and we'll give you a realistic timeframe based on your location and the situation."}, {"question": "Are you available after hours and on weekends?", "answer": "Yes. We operate 24/7, so a burst pipe at midnight or a fire aftermath on a Sunday gets the same response as a weekday call during business hours."}, {"question": "Do you work on commercial properties or just homes?", "answer": "Both. Whether it's a single-family home, a rental unit, or a commercial building, the same call-in process applies: tell us what's happening and we'll scope the right response."}, {"question": "How does billing work with my insurance company?", "answer": "We document the damage thoroughly with photos and notes as we work, which gives you and your adjuster a clear record of what happened and what was needed to fix it. You'll want to confirm your specific coverage details with your carrier, but we'll support the claims process with the documentation it requires."}, {"question": "What should I do while I'm waiting for a crew to arrive?", "answer": "If it's safe, shut off the water source or power to the affected area and avoid walking through standing water near outlets. Beyond that, don't attempt major cleanup yourself, especially with fire or biohazard situations. Call us and we'll tell you what's safe to do until we're on-site."}, {"question": "Can I just send photos and get a rough estimate first?", "answer": "For non-urgent situations, that's reasonable. Email drestum@restopros.co with photos and a description of what happened, and we'll follow up with next steps. For active emergencies, a phone call gets you a faster path forward."}]
 rendered: true
 ---
-## Water in your basement right now, or smoke still hanging in the air? Call (240) 261-1639. RestoPros of Central Maryland answers 24/7, and every minute matters once water or fire has touched your home or building.
+**Dealing with water, fire, or biohazard damage right now?** Call (240) 261-1639 and we'll walk you through next steps on the spot. For everything else, the form below gets you a response without the wait on hold.
 
 ## For urgent situations
 
-If you're dealing with active flooding, a burst pipe, fire or smoke damage, or a biohazard situation, don't wait on a form submission. Call (240) 261-1639 directly. We take calls around the clock, every day of the year, so you're never stuck waiting until morning to get someone moving on standing water or smoke-damaged rooms. The faster materials get assessed and dried or stabilized, the fewer surfaces you lose.
+Standing water, smoke damage, or a biohazard situation gets worse by the hour, not the day. RestoPros of Central Maryland answers 24/7, so if you're standing in a flooded basement at 2 a.m. or smelling smoke residue the morning after a fire, pick up the phone. Don't wait for business hours to start mitigation. The sooner a crew assesses the loss, the less material you lose to secondary damage like warped flooring or mold colonization.
 
 ## For estimates and non-urgent inquiries
 
-Not every call is a crisis. If you're planning ahead, comparing options after a smaller leak, or have a question about scope or scheduling, email drestum@restopros.co or use the contact form. We review non-emergency inquiries and typically respond within one business day. If you already have an insurance claim open, let us know the carrier and claim number up front so we can start gathering the documentation we'll need.
+If you're planning ahead, comparing options, or have a question about insurance coverage before committing to a job, email drestum@restopros.co or use the contact form. These aren't monitored around the clock the way the phone line is, so expect a response within a business day. That's also the right path for scheduling a mold inspection, requesting a written estimate, or asking about a project that isn't time-sensitive.
 
 ## Where we're located
 
-We're based at 2710 Hunting Ridge Ct, Baldwin, MD 21013, and work throughout Central Maryland, including Baltimore County, Towson, Bel Air, Cockeysville, and surrounding communities. Whether you're in an older farmhouse near the Gunpowder River or a newer development off I-95, we're close enough to get eyes on the damage fast.
+RestoPros of Central Maryland is based at 2710 Hunting Ridge Ct, Rockville, MD 21013. From there, crews cover Rockville and the surrounding Central Maryland area, including Gaithersburg, Germantown, Frederick, Columbia, and the inner suburbs closer to the DC line. If you're unsure whether your property falls inside the service area, call and ask. It takes thirty seconds and saves you the guesswork.
