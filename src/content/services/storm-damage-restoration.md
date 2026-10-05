@@ -55,6 +55,6 @@ Central Maryland sees two distinct storm windows: summer thunderstorm and hurric
 
 ## Service area
 
-RestoPros of Central Maryland responds to storm damage throughout Rockville and the surrounding Montgomery County area, including Gaithersburg, Bethesda, Silver Spring, and Germantown.
+RestoPros of Central Maryland responds to storm damage throughout [Rockville](/service-areas/rockville-md/) and the surrounding Montgomery County area, including [Gaithersburg](/service-areas/gaithersburg-md/), [Bethesda](/service-areas/bethesda-md/), [Silver Spring](/service-areas/silver-spring-md/), and [Germantown](/service-areas/germantown-md/).
 
 If a storm has already torn into your roof or siding, don't wait for the next round of rain to find the gap again. Call (240) 261-1639 to get emergency stabilization started and your storm damage documented before it spreads further into the structure.

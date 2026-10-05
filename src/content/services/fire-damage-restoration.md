@@ -55,6 +55,6 @@ Rockville's winter heating season brings the steady run of space-heater and fire
 
 ## Service area
 
-We respond to fire damage calls throughout Rockville and surrounding Montgomery County communities, including Gaithersburg, Bethesda, Germantown, and Silver Spring.
+We respond to fire damage calls throughout [Rockville](/service-areas/rockville-md/) and surrounding Montgomery County communities, including [Gaithersburg](/service-areas/gaithersburg-md/), [Bethesda](/service-areas/bethesda-md/), [Germantown](/service-areas/germantown-md/), and [Silver Spring](/service-areas/silver-spring-md/).
 
 If smoke or fire has touched your home, don't wait on the soot. Call (240) 261-1639 to begin smoke and soot removal before residue sets into finishes and odor works its way deeper into the structure.

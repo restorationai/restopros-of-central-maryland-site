@@ -53,6 +53,6 @@ Central Maryland's winters bring freeze-thaw swings that split supply lines and 
 
 ## Service area
 
-RestoPros of Central Maryland responds to water damage calls throughout Rockville and the surrounding Central Maryland communities, including Gaithersburg, Bethesda, Silver Spring, and the rest of Montgomery County.
+RestoPros of Central Maryland responds to water damage calls throughout [Rockville](/service-areas/rockville-md/) and the surrounding Central Maryland communities, including [Gaithersburg](/service-areas/gaithersburg-md/water-damage-restoration/), [Bethesda](/service-areas/bethesda-md/water-damage-restoration/), [Silver Spring](/service-areas/silver-spring-md/water-damage-restoration/), and the rest of Montgomery County.
 
 If water is actively moving through your home right now, don't wait for it to look worse before calling. Schedule your moisture assessment and we'll start extraction and drying equipment the same visit.

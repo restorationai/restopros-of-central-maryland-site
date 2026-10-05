@@ -53,11 +53,11 @@ If the water reached flooring, drywall, baseboards, or insulation, drying it wit
 It's also worth calling in a professional if:
 
 - Water reached an electrical outlet, panel, or appliance
-- The burst happened in a finished basement or behind cabinetry where you can't see the full extent of the spread
+- The burst happened in a [finished basement](/services/basement-flooding-cleanup/) or behind cabinetry where you can't see the full extent of the spread
 - More than a few hours passed before you noticed the leak
 - You're planning to file an insurance claim and want documented drying and moisture readings as part of that record
 
-RestoPros of Central Maryland handles both the water extraction and structural drying side of a burst pipe loss, as well as cleanup from failed appliance supply lines and connections. Call (240) 261-1639 to talk through what you're seeing before deciding whether to bring in equipment.
+RestoPros of Central Maryland handles both the [water extraction](/services/emergency-water-removal/) and structural drying side of a burst pipe loss, as well as cleanup from failed appliance supply lines and connections. Call (240) 261-1639 to talk through what you're seeing before deciding whether to bring in equipment.
 
 ## The Recovery Timeline After the Water Is Off
 

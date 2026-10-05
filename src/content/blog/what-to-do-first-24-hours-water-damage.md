@@ -22,7 +22,7 @@ If you're standing in water right now, here's the order of operations: shut off 
 
 ## Understand What You're Dealing With
 
-Not all water damage behaves the same way, and that affects how urgent your response needs to be. A supply line leak or burst pipe is usually clean water, at least at first, but it can soak through subfloor and into joists faster than it looks on the surface. A backed-up drain or appliance overflow carries contaminants and needs to be treated more cautiously. A sewage backup or floodwater intrusion is a different category entirely and isn't a DIY cleanup under any circumstances.
+Not all water damage behaves the same way, and that affects how urgent your response needs to be. A supply line leak or burst pipe is usually clean water, at least at first, but it can soak through subfloor and into joists faster than it looks on the surface. A backed-up drain or appliance overflow carries contaminants and needs to be treated more cautiously. A [sewage backup](/services/sewage-cleanup/) or floodwater intrusion is a different category entirely and isn't a DIY cleanup under any circumstances.
 
 Across Central Maryland, a lot of the housing stock dates back several decades, which means plaster-and-lath walls, older cast iron and galvanized plumbing, and crawl space foundations that don't always drain well. Water that gets into a crawl space here can sit against joists for days before anyone notices a smell, especially in the humid stretch of a Maryland summer when everything dries slower. If your home has a crawl space or an unfinished basement, check both, not just the room where you first noticed the problem.
 
@@ -43,7 +43,7 @@ Across Central Maryland, a lot of the housing stock dates back several decades, 
 - Don't assume carpet padding is salvageable just because the carpet on top feels dry. Padding holds moisture and loses structural integrity fast.
 - Don't paint, patch, or seal drywall over a wet area to "get ahead of it." Trapped moisture behind a fresh coat of paint is how hidden mold problems start.
 - Don't wait to see if it dries on its own before calling your insurer. Most policies require prompt notice, and delayed reporting can complicate a claim.
-- Don't enter a room with sagging ceiling drywall or a ceiling that's actively dripping. That's a collapse risk, not a cleanup job.
+- Don't enter a room with [sagging ceiling drywall](/services/ceiling-water-damage-repair/) or a ceiling that's actively dripping. That's a collapse risk, not a cleanup job.
 
 ## When to Call a Professional
 
