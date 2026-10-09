@@ -13,8 +13,8 @@ export const brand = {
   // declares it as the business name, so Google/BrightLocal find the new
   // name corroborated on the site before and during the GBP rename.
   dbaName: "",
-  domain: "restopros-of-central-maryland.invalid",
-  canonicalUrl: "https://restopros-of-central-maryland.invalid",
+  domain: "restoproscentralmd.com",
+  canonicalUrl: "https://restoproscentralmd.com",
   phone: "(240) 261-1639",
   phoneRaw: "+12402611639",
   hideMobileHeaderCall: false,
@@ -48,7 +48,7 @@ export const brand = {
   lng: "-76.4701866",
   placeId: "ChIJ64mT9f9M2oMRGaajJtP-T4A",
   googleCid: "",
-  imagesBase: "https://images.restopros-of-central-maryland.invalid",
+  imagesBase: "https://images.restoproscentralmd.com",
   googleMapsApiKey: "",
   // Analytics — set post-scaffold (scripts/analytics_set.py / create_ga4.py); no-op if empty
   ga4MeasurementId: "",
