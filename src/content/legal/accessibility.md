@@ -38,7 +38,7 @@ If you use assistive technology and find a page, form, or feature on this site t
 - What assistive technology or browser you were using
 - What you were trying to do
 
-You can reach us by email at drestum@restopros.co or by phone at (240) 261-1639. If calling or emailing isn't practical for your situation, you're also welcome to write to us at 2710 Hunting Ridge Ct, Baldwin, MD 21013.
+You can reach us by email at drestum@restopros.co or by phone at (240) 261-1639.
 
 We'll acknowledge accessibility reports promptly and work to address confirmed issues within a reasonable window, generally within a few weeks depending on the scope of the fix. If a particular page or feature isn't accessible to you right now, we're glad to take your information over the phone and help schedule an estimate or answer questions about water damage, fire damage, mold, or biohazard cleanup services the same way we would through the website.
 

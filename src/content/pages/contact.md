@@ -23,8 +23,8 @@ Standing water, smoke damage, or a biohazard situation gets worse by the hour, n
 
 ## For estimates and non-urgent inquiries
 
-If you're planning ahead, comparing options, or have a question about insurance coverage before committing to a job, email drestum@restopros.co or use the contact form. These aren't monitored around the clock the way the phone line is, so expect a response within a business day. That's also the right path for scheduling a mold inspection, requesting a written estimate, or asking about a project that isn't time-sensitive.
+If you're planning ahead, comparing options, or have a question about insurance coverage before committing to a job, email drestum@restopros.co or use the contact form. These aren't monitored around the clock the way the phone line is, so expect a response within a business day. That's also the right path for requesting a written estimate, or asking about a project that isn't time-sensitive.
 
-## Where we're located
+## Where we work
 
-RestoPros of Central Maryland is based at 2710 Hunting Ridge Ct, Rockville, MD 21013. From there, crews cover Rockville and the surrounding Central Maryland area, including Gaithersburg, Germantown, Frederick, Columbia, and the inner suburbs closer to the DC line. If you're unsure whether your property falls inside the service area, call and ask. It takes thirty seconds and saves you the guesswork.
+RestoPros of Central Maryland is a service-area business: crews come to you across Rockville and the surrounding Central Maryland area, including Gaithersburg, Germantown, Frederick, Columbia, and the inner suburbs closer to the DC line. If you're unsure whether your property falls inside the service area, call and ask. It takes thirty seconds and saves you the guesswork.

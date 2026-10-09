@@ -32,7 +32,10 @@ const servingLine = `Serving ${city} and surrounding neighborhoods`;
 const mapQuery = encodeURIComponent(`${brand.displayName} ${hqCity} ${hqState}`);
 const embedSrc = `https://www.google.com/maps?q=${mapQuery}&output=embed`;
 
-const fullAddress = `${brand.streetAddress}, ${hqCity}, ${hqState} ${brand.postalCode}`;
+// SAB-safe: no leading ", " when streetAddress is empty (RestoPros 2026-10-09:
+// the street on file was Daniel's home, so the site shows city + area only)
+const fullAddress = [brand.streetAddress, `${hqCity}, ${hqState} ${brand.postalCode}`.trim()]
+  .filter(Boolean).join(", ");
 const directionsHref = `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(fullAddress)}`;
 
 const clean = (v: string) => v && !v.includes("{{") ? v : "";
@@ -76,10 +79,12 @@ const hoursText = clean(brand.hours);
              class="flex-1 text-center rounded-lg bg-navy text-white font-black py-3 px-4 hover:opacity-90 transition">
             📞 Call Now
           </a>
-          <a href={directionsHref} target="_blank" rel="noopener"
-             class="flex-1 text-center rounded-lg border-2 border-navy/20 text-navy font-black py-3 px-4 hover:bg-navy/5 transition">
-            Get Directions
-          </a>
+          {brand.streetAddress && (
+            <a href={directionsHref} target="_blank" rel="noopener"
+               class="flex-1 text-center rounded-lg border-2 border-navy/20 text-navy font-black py-3 px-4 hover:bg-navy/5 transition">
+              Get Directions
+            </a>
+          )}
         </div>
       </div>
 

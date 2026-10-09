@@ -59,7 +59,7 @@ A few situations are worth a call rather than a DIY attempt:
 - Anyone in the household has had worsening respiratory symptoms since the mold appeared.
 - You want a lab-confirmed identification before deciding how aggressively to treat it.
 
-A mold inspection typically starts with a visual assessment and moisture mapping using a meter, followed by sampling if species identification is needed. RestoPros of Central Maryland's mold remediation process is built around containing the affected area first, so spores aren't spread to the rest of the home during removal, then removing and properly disposing of the contaminated material rather than trying to clean it in place.
+A professional look typically starts with a visual check and moisture mapping using a meter, followed by sampling if species identification is needed. RestoPros of Central Maryland's mold remediation process is built around containing the affected area first, so spores aren't spread to the rest of the home during removal, then removing and properly disposing of the contaminated material rather than trying to clean it in place.
 
 ## The Recovery Process After Remediation
 

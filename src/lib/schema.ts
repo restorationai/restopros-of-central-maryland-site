@@ -64,10 +64,10 @@ function localBusiness(ctx: PageSchemaContext) {
     priceRange: "$$",
     address: {
       "@type": "PostalAddress",
-      streetAddress: brand.streetAddress,
+      streetAddress: brand.streetAddress || undefined,
       addressLocality: brand.addressCity,
       addressRegion: brand.addressState,
-      postalCode: brand.postalCode,
+      postalCode: brand.postalCode || undefined,
       addressCountry: "US",
     },
     geo: {
@@ -206,10 +206,10 @@ function blogPosting(ctx: PageSchemaContext) {
       image: brand.logoUrl,
       address: {
         "@type": "PostalAddress",
-        streetAddress: brand.streetAddress,
+        streetAddress: brand.streetAddress || undefined,
         addressLocality: brand.addressCity,
         addressRegion: brand.addressState,
-        postalCode: brand.postalCode,
+        postalCode: brand.postalCode || undefined,
         addressCountry: "US",
       },
     },

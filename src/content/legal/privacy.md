@@ -42,4 +42,4 @@ We take reasonable precautions to protect the information submitted through our 
 
 ## Contact Us
 
-If you have questions about this privacy policy or how your information is handled, you can reach RestoPros of Central Maryland at drestum@restopros.co or (240) 261-1639, or by mail at 2710 Hunting Ridge Ct, Baldwin, MD 21013.
+If you have questions about this privacy policy or how your information is handled, you can reach RestoPros of Central Maryland at drestum@restopros.co or (240) 261-1639.

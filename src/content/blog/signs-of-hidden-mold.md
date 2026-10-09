@@ -61,7 +61,7 @@ A few situations call for more than a DIY response:
 - Anyone in the household has asthma, a compromised immune system, or chronic respiratory issues.
 - The mold followed a known water event, a leak, overflow, or flooding, that wasn't fully dried out within 24 to 48 hours.
 
-A mold inspection identifies not just where the mold is, but why it's there, which is the part homeowners usually can't diagnose on their own. RestoPros of Central Maryland's mold remediation process starts with locating the moisture source and the extent of the growth, then contains the work area to keep spores from spreading to unaffected rooms during removal.
+A professional evaluation identifies not just where the mold is, but why it's there, which is the part homeowners usually can't diagnose on their own. RestoPros of Central Maryland's mold remediation process starts with locating the moisture source and the extent of the growth, then contains the work area to keep spores from spreading to unaffected rooms during removal.
 
 ## What the Remediation Process Looks Like
 

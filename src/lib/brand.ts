@@ -40,12 +40,12 @@ export const brand = {
   // copy). addressCity/addressState = where the business PHYSICALLY is.
   // They are usually the same and often diverge (DISS: Farrell PA office,
   // Youngstown OH target) — only the address pair may go in a PostalAddress.
-  addressCity: "Baldwin",
+  addressCity: "Rockville",
   addressState: "MD",
-  streetAddress: "2710 Hunting Ridge Ct",
-  postalCode: "21013",
-  lat: "39.4945894",
-  lng: "-76.4701866",
+  streetAddress: "",
+  postalCode: "",
+  lat: "39.262387",
+  lng: "-76.6535845",
   placeId: "ChIJ64mT9f9M2oMRGaajJtP-T4A",
   googleCid: "",
   imagesBase: "https://images.restoproscentralmd.com",

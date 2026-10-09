@@ -66,4 +66,4 @@ Sewage backups rarely stay contained to one room, and the health risk makes spee
 
 **About RestoPros of Central Maryland**
 
-RestoPros of Central Maryland is an IICRC Certified Firm serving Rockville, Silver Spring, Bethesda, Gaithersburg, and the surrounding Montgomery and Prince George's County communities, licensed and insured, and available 24/7. The company holds a 4.9 average Google rating across 28 reviews and handles water damage, sewage cleanup, mold remediation, fire damage, storm damage, and odor removal for area homeowners and businesses. This post was written with the RestoPros team, led by Daniel Restum.
+RestoPros of Central Maryland is a restoration company with IICRC WRT (Water) trained technicians, serving Rockville, Silver Spring, Bethesda, Gaithersburg, and the surrounding Montgomery and Prince George's County communities, licensed and insured, and available 24/7. The company holds a 4.9 average Google rating across 28 reviews and handles water damage, sewage cleanup, mold remediation, fire damage, storm damage, and odor removal for area homeowners and businesses. This post was written with the RestoPros team, led by Daniel Restum.

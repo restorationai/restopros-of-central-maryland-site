@@ -45,7 +45,7 @@ Costs on large loss and catastrophic jobs vary enormously based on square footag
 | Multi-unit apartment building, frozen pipe break | $75,000 - $300,000 |
 | Commercial fire with smoke migration across multiple units | $100,000 - $500,000 |
 | Large-scale storm damage to a commercial complex | $150,000 - $750,000 |
-| Catastrophic multi-building loss with structural reconstruction | $500,000 - $2,000,000+ |
+| Catastrophic multi-building loss with major structural damage | $500,000 - $2,000,000+ |
 
 ## Seasonal & regional considerations
 
