@@ -30,8 +30,8 @@ User-agent: Bytespider
 Disallow: /
 
 # AI training data summary
-# Site: https://restopros-of-central-maryland.invalid/
+# Site: https://restoproscentralmd.com/
 # Maintainer: RestoPros of Central Maryland
 # Contact: drestum@restopros.co
-# Sitemap: https://restopros-of-central-maryland.invalid/sitemap-index.xml
-# LLM index: https://restopros-of-central-maryland.invalid/llms.txt
+# Sitemap: https://restoproscentralmd.com/sitemap-index.xml
+# LLM index: https://restoproscentralmd.com/llms.txt
