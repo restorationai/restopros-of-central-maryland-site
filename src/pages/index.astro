@@ -13,6 +13,7 @@ import ServicesStrip from "~/components/ui/ServicesStrip.astro";
 import ProcessSection from "~/components/ui/ProcessSection.astro";
 import BeforeAfterSection from "~/components/ui/BeforeAfterSection.astro";
 import RecentWork from "~/components/RecentWork.astro";
+import CaseStudies from "~/components/CaseStudies.astro";
 import ProudlyServing from "~/components/ui/ProudlyServing.astro";
 import ReviewsSection from "~/components/ui/ReviewsSection.astro";
 import { brand } from "~/lib/brand";
@@ -82,6 +83,8 @@ const services = pinnedServices.length
   <BeforeAfterSection pairs={workPairs} />
 
   <RecentWork />
+
+  <CaseStudies moreHref="/case-studies/" />
 
   <ReviewsSection />
 
