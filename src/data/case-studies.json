@@ -34,5 +34,41 @@
     "performed_on": null,
     "photos": [],
     "published": true
+  },
+  {
+    "area_slug": null,
+    "service_slug": null,
+    "title": "Church Mold Remediation Before Weekend Services",
+    "summary": "Mold affected upholstered pews, overflow seating, and exposed wooden framing in a church sanctuary. Our team cleaned the affected upholstery and surfaces, applied antimicrobial treatment, and used HEPA air filtration and controlled drying. The sanctuary was left clean and dry, ready for weekend services.",
+    "performed_on": null,
+    "photos": [],
+    "published": true
+  },
+  {
+    "area_slug": "kensington-md",
+    "service_slug": null,
+    "title": "Concealed Water Damage and Mold in Kensington",
+    "summary": "Water damage and microbial growth extended into areas concealed behind family room built-ins. We completed the work in phases, using containment, HEPA air filtration, selective removal, and cleaning to address both accessible and concealed affected areas.",
+    "performed_on": null,
+    "photos": [],
+    "published": true
+  },
+  {
+    "area_slug": null,
+    "service_slug": null,
+    "title": "Focused Mold Remediation",
+    "summary": "A localized mold problem required controlled removal and cleaning. Our team installed containment, operated HEPA air filtration, removed affected materials, and cleaned and treated the remaining surfaces, with dehumidification supporting the remediation.",
+    "performed_on": null,
+    "photos": [],
+    "published": true
+  },
+  {
+    "area_slug": "olney-md",
+    "service_slug": null,
+    "title": "Water Damage Across Multiple Basement Rooms in Olney",
+    "summary": "Water affected a basement family room, bathroom, closets, and utility area. We removed damaged materials, cleaned affected surfaces, and deployed drying equipment across the involved rooms, monitoring moisture conditions throughout the project.",
+    "performed_on": null,
+    "photos": [],
+    "published": true
   }
 ]
