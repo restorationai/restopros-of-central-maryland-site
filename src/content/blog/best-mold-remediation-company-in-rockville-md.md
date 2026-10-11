@@ -59,7 +59,7 @@ Look for these specifics before you sign:
 - **Post-remediation verification**: a clearance step, ideally with third-party air or surface sampling, confirming the space passed before the containment comes down
 - **Written timeline and total cost**, not a verbal estimate
 
-If a quote skips the verification step entirely, ask why. The [IICRC S520 Standard](https://www.iicrc.org/page/IICRCS520) for professional mold remediation treats post-remediation verification as a standard part of the process, not an upsell.
+If a quote skips the verification step entirely, ask why. The [IICRC S520 Standard](https://iicrc.org/s520/) for professional mold remediation treats post-remediation verification as a standard part of the process, not an upsell.
 
 ![What should a mold remediation quote in Rockville include: best mold remediation company in Rockville](/images/blog/2026/10/best-mold-remediation-company-in-rockville-md/section.webp)
 
