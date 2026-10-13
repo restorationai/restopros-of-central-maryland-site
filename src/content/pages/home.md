@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "Water Damage Restoration in Rockville, MD | RestoPros of Central Maryland"
-h1: "24/7 Water Damage Restoration in Rockville, MD"
-meta_description: "RestoPros of Central Maryland provides water damage restoration in Rockville, MD, answering 24/7. IICRC certified. Call (240) 261-1639 now."
-primary_keyword: "water damage restoration rockville"
-secondary_keywords: ["best restoration company in rockville", "restoration company rockville", "water damage restoration near me"]
+title: "Water Damage Restoration in Central Maryland | RestoPros of Central Maryland"
+h1: "24/7 Water Damage Restoration in Central Maryland"
+meta_description: "RestoPros of Central Maryland provides water damage restoration across Central Maryland, including Rockville, Silver Spring and Bethesda."
+primary_keyword: "water damage restoration central maryland"
+secondary_keywords: ["best restoration company in central maryland", "restoration company central maryland", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "1bbd3d10e06ed9b4"
