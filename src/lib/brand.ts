@@ -70,14 +70,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
-  gbpReviewCount: "28",
+  gbpReviewCount: "29",
   gbpReviews: [
+    { author: "Choose2Behappy", rating: 5, text: "First, I want to say how appreciative I am of RestoPros of Central Maryland. While I was out of town we had heavy rain and I was concerned that water would be coming in to the basement. Jonathan and team were able to assess the situation the same day I spoke to them and to include using instruments…", when: "October 2026" },
     { author: "Leslie", rating: 5, text: "RestoPros of Central MD is EXCELLENT! Totally professional, reasonably priced, and they don't try to up-sell. Mike was our main contact and was so wonderful to work with - really gave us great advice and peace of mind.", when: "September 2026" },
     { author: "Jram927", rating: 5, text: "Dan and Mike were extremely helpful and supportive in helping with our plumbing leak damage. They were professional and fair and made our emergency feel more manageable and comfortable.", when: "September 2026" },
     { author: "Wendy", rating: 5, text: "The customer service and attention to detail were excellent.", when: "September 2026" },
     { author: "Tyler", rating: 5, text: "Daniel and his team were absolute lifesavers in an emergency. They arrived right on time and immediately got to work, preventing any further damage. Friendly, professional, and fast. And more importantly, very reasonable with the prices. Surely call him for any future need. Highly recommended.", when: "September 2026" },
     { author: "Smart", rating: 5, text: "Best Water Damage services provider in the area. Highly professional and skillful. Dan you are the gem", when: "September 2026" },
-    { author: "Oscar", rating: 5, text: "Dan helped me through the process and explained me in detail about all my questions. I highly recommend Restopros.", when: "September 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Rockville, Silver Spring, Bethesda and across Central Maryland.",
   // optional custom insurance positioning line (Hero renders only when set)
