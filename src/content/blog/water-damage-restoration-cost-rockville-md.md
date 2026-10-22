@@ -80,4 +80,4 @@ If you're in Rockville, Silver Spring, Bethesda, Gaithersburg, or elsewhere in [
 
 **About RestoPros of Central Maryland**
 
-RestoPros of Central Maryland is an IICRC-certified technicians (WRT) restoration company serving Rockville and the surrounding Montgomery, Prince George's, and Howard County communities. The team answers calls 24/7 and handles water damage restoration, sewage cleanup, mold remediation, fire and smoke damage, storm damage, and odor removal for homes and businesses across Central Maryland.
+RestoPros of Central Maryland is a restoration company with IICRC WRT-certified technicians, serving Rockville and the surrounding Montgomery, Prince George's, and Howard County communities. The team answers calls 24/7 and handles water damage restoration, sewage cleanup, mold remediation, fire and smoke damage, storm damage, and odor removal for homes and businesses across Central Maryland.
