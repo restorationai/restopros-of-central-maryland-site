@@ -64,7 +64,7 @@ RestoPros of Central Maryland documents moisture readings, photos, and scope of 
 
 Professional mold remediation follows a sequence designed to remove contamination without spreading spores to the rest of the house. The steps are:
 
-1. **Inspection and testing.** A technician identifies the extent of growth, checks moisture levels with a meter, and may collect air or surface samples.
+1. **Inspection and testing.** A technician identifies the extent of growth and checks moisture levels with a meter; any air or surface sampling is done by an independent environmental hygienist.
 2. **Containment.** Poly sheeting seals off the work area and negative air pressure (via a HEPA air scrubber) keeps spores from traveling into clean rooms.
 3. **Removal of contaminated material.** Porous materials that can't be cleaned, like drywall, insulation, or carpet, are removed and bagged for disposal.
 4. **HEPA cleaning.** Remaining surfaces are HEPA-vacuumed and treated with antimicrobial solution.
