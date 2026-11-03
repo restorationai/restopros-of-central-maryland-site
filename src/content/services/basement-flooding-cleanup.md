@@ -53,6 +53,6 @@ Rockville sits on clay-heavy soil that doesn't drain quickly, and that matters m
 
 ## Service area
 
-We respond to basement flooding throughout Rockville and the surrounding Central Maryland communities, including Gaithersburg, Bethesda, Silver Spring, and the rest of Montgomery County.
+We respond to basement flooding throughout Rockville and the surrounding Central Maryland communities, including Gaithersburg, Bethesda, Silver Spring, Germantown, Kensington, and Olney.
 
 If your basement is taking on water right now, don't wait for it to spread to finished walls and framing. Call RestoPros of Central Maryland to schedule your basement water removal and start drying before the damage climbs higher than the waterline.

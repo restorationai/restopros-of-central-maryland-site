@@ -21,7 +21,7 @@ rendered: true
 
 ## What Sewage Cleanup and Sanitization actually involves
 
-Sewage intrusion is classified as Category 3 water, the most contaminated tier recognized in the restoration industry, whether it comes from a backed-up sewer line, a failed septic tank, an overwhelmed sump pump, or a toilet that overflows during a storm. That classification changes everything about how the job gets handled compared to a clean-water leak. Porous materials that soak up contaminated water, carpet, pad, drywall, insulation, often can't be saved and have to come out rather than just dried. The work involves pumping or extracting standing wastewater, removing and bagging contaminated debris for proper disposal, cleaning and disinfecting hard surfaces with hospital-grade antimicrobials, and drying the structure while monitoring for lingering moisture inside wall cavities and subfloor. Depending on how far the water traveled and how long it sat before the crew arrived, a single backed-up bathroom can turn into a multi-room job if wastewater tracked under flooring or down a hallway.
+Sewage intrusion is classified as Category 3 water, the most contaminated tier recognized in the restoration industry, whether it comes from a backed-up sewer line, a failed septic tank, or a toilet overflow containing feces. That classification changes everything about how the job gets handled compared to a clean-water leak. Porous materials that soak up contaminated water, carpet, pad, drywall, insulation, often can't be saved and have to come out rather than just dried. The work involves pumping or extracting standing wastewater, removing and bagging contaminated debris for proper disposal, cleaning and disinfecting hard surfaces with hospital-grade antimicrobials, and drying the structure while monitoring for lingering moisture inside wall cavities and subfloor. Depending on how far the water traveled and how long it sat before the crew arrived, a single backed-up bathroom can turn into a multi-room job if wastewater tracked under flooring or down a hallway.
 
 ## Our process
 
@@ -53,6 +53,6 @@ Heavy rain events in the Rockville area can overwhelm aging sewer lines and push
 
 ## Service area
 
-RestoPros of Central Maryland handles sewage cleanup and sanitization calls throughout Rockville and the surrounding Central Maryland communities, including Gaithersburg, Bethesda, Silver Spring, and the rest of Montgomery County.
+RestoPros of Central Maryland handles sewage cleanup and sanitization calls throughout Rockville and the surrounding Central Maryland communities, including Gaithersburg, Bethesda, Silver Spring, Germantown, Kensington, and Olney.
 
 If wastewater is backing up into your home right now, don't wait for it to spread further into flooring and walls. Call (240) 261-1639 to begin sewage cleanup and sanitization before contamination reaches more of the structure.

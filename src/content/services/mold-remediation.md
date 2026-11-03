@@ -60,6 +60,6 @@ Rockville's humid summers push indoor relative humidity up fast, especially in b
 
 ## Service area
 
-We handle mold remediation throughout Rockville and the surrounding Central Maryland communities, including Gaithersburg, Bethesda, Silver Spring, and the rest of Montgomery County.
+We handle mold remediation throughout Rockville and the surrounding Central Maryland communities, including Gaithersburg, Bethesda, Silver Spring, Germantown, Kensington, and Olney.
 
 If you're seeing spotting, smelling that persistent musty odor, or just found out about a leak that's been running longer than you'd like, give us a call and we'll walk the space with you before anything gets torn out.
