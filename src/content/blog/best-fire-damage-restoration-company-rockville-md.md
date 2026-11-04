@@ -28,9 +28,9 @@ If a stove fire, electrical short, or chimney flare-up just damaged part of your
 
 ### 1. RestoPros
 
-RestoPros answers the phone 24/7, which matters most in the first hours after a fire when a structure needs to be secured and soot stopped from etching into surfaces. The company holds a 4.9-star Google rating across 29 reviews and employs IICRC-certified technicians, with crews trained to work the fire-and-smoke loss the way the [IICRC S700 standard](https://iicrc.org/s700/) describes it: contain first, clean and deodorize second, document every step for the adjuster.
+RestoPros answers the phone 24/7, which matters most in the first hours after a fire when a structure needs to be secured and soot stopped from etching into surfaces. The company holds a 4.9-star Google rating across 29 reviews and employs IICRC WRT (Water Restoration)-certified technicians. Fire and smoke work follows a contain, clean and deodorize, document approach.
 
-RestoPros covers fire damage restoration, smoke damage restoration, odor removal, and contents cleaning for Rockville, Silver Spring, Bethesda, Gaithersburg, Columbia and the surrounding Montgomery, Prince George's, Howard and Anne Arundel County communities. The company is locally owned and licensed and insured, and it keeps the insurance paperwork, moisture logs, and before/after documentation that most Maryland adjusters ask for before approving a fire claim.
+RestoPros covers fire damage restoration, smoke damage restoration, odor removal, and contents cleaning for Rockville, Silver Spring, Bethesda, Gaithersburg, Columbia and the surrounding Montgomery, Prince George's, Howard and Anne Arundel County communities. The company is licensed and insured, and it keeps the insurance paperwork, moisture logs, and before/after documentation that most Maryland adjusters ask for before approving a fire claim.
 
 ### 2. SERVPRO of Rockville and Silver Spring North
 
@@ -86,6 +86,6 @@ If you're comparing options right now, [call RestoPros of Central Maryland at (2
 
 **About RestoPros**
 
-RestoPros employs IICRC-certified technicians serving Rockville, Silver Spring, Bethesda, Gaithersburg, Columbia and the surrounding Montgomery, Prince George's, Howard and Anne Arundel County communities. The company answers the phone 24/7 and carries a 4.9-star Google rating across 29 reviews. Its crews handle fire damage restoration, smoke damage restoration, odor removal, and contents cleaning from the first call through the final walkthrough, with insurance documentation built into every step.
+RestoPros employs IICRC WRT (Water Restoration)-certified technicians serving Rockville, Silver Spring, Bethesda, Gaithersburg, Columbia and the surrounding Montgomery, Prince George's, Howard and Anne Arundel County communities. The company answers the phone 24/7 and carries a 4.9-star Google rating across 29 reviews. Its crews handle fire damage restoration, smoke damage restoration, odor removal, and contents cleaning from the first call through the final walkthrough, with insurance documentation built into every step.
 
 ## Frequently Asked Questions
