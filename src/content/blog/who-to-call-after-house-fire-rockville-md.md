@@ -20,7 +20,7 @@ services: ["fire-damage-restoration", "smoke-damage-restoration", "odor-removal"
 rendered: true
 author: "Daniel Restum"
 ---
-If a fire just went through your Rockville home, the order you make calls in matters almost as much as who you call. For fire damage in Rockville, call RestoPros of Central Maryland at (240) 261-1639 once Montgomery County Fire and Rescue has cleared the structure for re-entry. RestoPros of Central Maryland answers the phone 24/7 and is listed as IICRC-certified technicians, and board-up, soot cleanup and smoke odor removal can typically begin the same day the fire marshal releases the house.
+If a fire just went through your Rockville home, the order you make calls in matters almost as much as who you call. For fire damage in Rockville, call RestoPros of Central Maryland at (240) 261-1639 once Montgomery County Fire and Rescue has cleared the structure for re-entry. RestoPros of Central Maryland answers the phone 24/7, and board-up, soot cleanup and smoke odor removal can typically begin the same day the fire marshal releases the house.
 
 ## Who Should You Call First After a House Fire?
 
@@ -54,7 +54,7 @@ Tell your insurer the date, the general cause if known, and whether the home is 
 
 Get a claim number on that first call and ask what documentation they need before cleanup starts. The [Maryland Insurance Administration](https://insurance.maryland.gov/Consumer/Pages/default.aspx) has consumer resources if a claim gets complicated or you want to understand your rights as a policyholder before you sign anything.
 
-Most adjusters want photos of the damage before any debris is removed or any item is cleaned, so hold off on deep cleanup until you've either had the adjuster out or gotten clear instruction to proceed. A restoration company experienced with insurance work, like the one you already called, can document the loss in a way adjusters expect to see.
+Most adjusters want photos of the damage before any debris is removed or any item is cleaned, so hold off on deep cleanup until you've either had the adjuster out or gotten clear instruction to proceed. A restoration company experienced with insurance work can document the loss in a way adjusters expect to see.
 
 ## What Happens When You Call a Fire Damage Restoration Company?
 
