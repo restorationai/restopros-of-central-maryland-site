@@ -24,7 +24,7 @@ rendered: true
 
 ## Why Gaithersburg Properties See Mold Issues
 
-Gaithersburg sits in the humid subtropical belt that covers most of central Maryland, which means long stretches of 80-90% outdoor humidity from June through September. Homes built with central air from that era weren't always designed with vapor barriers or modern ventilation in mind, so basements and crawlspaces trap moisture that condenses on cool foundation walls. Add a finished rec room or a converted basement office, which is common in this part of Montgomery County, and you have drywall, carpet, and insulation sitting against damp concrete for months at a time. Once a roof leak, sump pump failure, or even a slow HVAC condensate drip adds standing moisture to that mix, colonization can start within 24 to 48 hours.
+Gaithersburg sits in the humid subtropical belt that covers most of central Maryland, which means long stretches of 80-90% outdoor humidity from June through September. Many Gaithersburg homes built in the 1970s and 80s weren't designed with vapor barriers or modern ventilation in mind, so basements and crawlspaces trap moisture that condenses on cool foundation walls. Add a finished rec room or a converted basement office, which is common in this part of Montgomery County, and you have drywall, carpet, and insulation sitting against damp concrete for months at a time. Once a roof leak, sump pump failure, or even a slow HVAC condensate drip adds standing moisture to that mix, colonization can start within 24 to 48 hours.
 
 ## Our Mold Remediation Process in Gaithersburg
 
