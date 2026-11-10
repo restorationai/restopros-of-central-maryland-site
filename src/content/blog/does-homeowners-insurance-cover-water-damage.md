@@ -37,7 +37,7 @@ This distinction matters a lot in older housing stock, which is common throughou
 
 ## What's Typically Not Covered
 
-- Flooding from rising groundwater, storm surge, or a overflowing creek or stream (this needs a separate flood policy)
+- Flooding from rising groundwater, storm surge, or an overflowing creek or stream (this needs a separate flood policy)
 - Sewer or drain backups, unless you've purchased a sewer backup endorsement, which many policies offer as an add-on
 - Damage from a leak you knew about and didn't repair
 - Gradual seepage through a foundation or basement wall over time
