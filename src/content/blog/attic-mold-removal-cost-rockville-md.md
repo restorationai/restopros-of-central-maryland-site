@@ -77,7 +77,7 @@ Call a professional once you can see mold spreading beyond a single small spot, 
 
 For a wider look at what whole-home mold remediation runs in this market, see our [Rockville mold remediation cost guide](/blog/mold-remediation-cost-in-rockville-md/), and if you're not sure who to call first, our [guide on who to call for mold remediation in Rockville](/blog/who-to-call-for-mold-remediation-in-rockville-md/) walks through the order of calls.
 
-Mold doesn't wait. The [EPA notes](https://www.epa.gov/mold) that mold can begin growing on wet materials within 24 to 48 hours, so an attic that's been damp for weeks already has an established colony, not a fresh spot. [Request an estimate](/contact/) once you've spotted staining or smelled must in the attic, rather than waiting to see if it spreads.
+Mold doesn't wait. The [EPA notes](https://www.epa.gov/mold) that mold can begin growing on wet materials within 24 to 48 hours, so an attic that's been damp for weeks already has an established colony, not a fresh spot. [Request an estimate](/contact/) once you've spotted staining or noticed a musty smell in the attic, rather than waiting to see if it spreads.
 
 ---
 
