@@ -81,7 +81,7 @@ If your mold problem traces back to a recent leak, flood, or sewage backup rathe
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC-certified technicians |
 |---|---|---|---|---|
-| RestoPros of Central Maryland | 4.9 | 29 | Yes | Yes |
+| RestoPros of Central Maryland | 4.9 | 32 | Yes | Yes |
 | We Restoration | 4.7 | 69 | Not listed | Not listed |
 | ProClean Air Duct Cleaning & Mold Remediation | 4.9 | 1,764 | Not listed | Not listed |
 | SERVPRO of Rockville and Silver Spring North | 3.4 | 27 | Not listed | Not listed |
