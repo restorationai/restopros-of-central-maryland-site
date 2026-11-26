@@ -79,6 +79,8 @@ export const brand = {
   trustBadges: ["IICRC Certified Firm", "Licensed & Insured", "24/7 Emergency Service", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
   sameAsUrls: ["https://www.facebook.com/p/RestoPros-of-Central-Maryland-61577854297653/", "https://maps.google.com/maps?cid=9245888742854731289", "https://www.yelp.com/biz/restopros-of-central-maryland-gaithersburg", "https://nextdoor.com/pages/restopros-of-central-maryland-gaithersburg-md/", "https://homeguide.com/md/baltimore/water-damage-restoration/restopros-of-central-maryland---24-7-emergency-water-damage-restoration---mold-remediation-VMqUCC5Tb"] as string[],
+  credentials: [{"name": "IICRC WRT (Water)", "kind": "certification", "authority": "IICRC", "holder": "technicians", "course": "WRT"}] as { name: string; kind: string; number?: string; authority?: string; url?: string; since?: string; state?: string; holder?: string; course?: string }[],
+  credentialsLine: [{"text": "IICRC-certified technicians (WRT)"}] as { text: string; url?: string }[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
