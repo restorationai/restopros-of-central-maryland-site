@@ -24,7 +24,7 @@ import homepageServices from "~/data/homepage-services.json";
 import { workPairs } from "~/data/work";
 
 const entry = await getEntry("pages", "home");
-if (!entry) throw new Error("Missing content: pages/home.md — has Skill 3 rendered yet?");
+if (!entry) throw new Error("Missing content: pages/home.md, has Skill 3 rendered yet?");
 const { Content } = await entry.render();
 const data = entry.data;
 
